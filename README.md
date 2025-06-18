@@ -1,5 +1,5 @@
 <div style="font-size: 20px; line-height: 1.8;">
-  <h1 style="font-size: 36px;">WhisperIt — Backend</h1>
+  <h1 style="font-size: 36px;">WhisperIt</h1>
 
   <p>👉 <strong>WhisperIt</strong> is a simple social media platform where users can register, share what they feel, and interact with others by liking, disliking, commenting, and replying to comments. The platform is designed with security in mind — <em>your data is almost safe 😉</em></p>
 
