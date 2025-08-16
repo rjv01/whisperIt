@@ -36,14 +36,17 @@
   <p>👉 <strong>Here is the rough BASIC SIMPLE System Design :-</strong></p>
 </div>
 
+![1_2_sys_des_whisp](/imgaes/1_2_sys_des_wIt.png)
+![3_4_sys_des_whisp](/imgaes/3_4_sys_des_wit.png)
+![5_sys_des_whisp](/imgaes/5-system-design-whiperit-new.jpg)
 
-![1_2_sys_des_wIt](https://github.com/user-attachments/assets/0c0a75d1-a76d-46d7-92bd-45c1fce8eca7)
+<!-- ![1_2_sys_des_wIt](https://github.com/user-attachments/assets/0c0a75d1-a76d-46d7-92bd-45c1fce8eca7)
 
 
 ![3_4_sys_des_wit](https://github.com/user-attachments/assets/56f21b02-188f-41a5-8ba1-71b439853853)
 
 
-![5-system-design-whiperit-new](https://github.com/user-attachments/assets/504b55ed-2f31-4e81-95d7-1ab9625bb213)
+![5-system-design-whiperit-new](https://github.com/user-attachments/assets/504b55ed-2f31-4e81-95d7-1ab9625bb213) -->
 
 
 
