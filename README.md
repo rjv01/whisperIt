@@ -8,6 +8,7 @@
   Join WhisperIt and whisper this website to your friends — use it wisely!</p>
 
   <p>👉 <strong>Tech Stack:</strong> MERN stack (MongoDB, Express.js, React.js, Node.js)</p>
+  <p>👉 <strong>Extra Tech Stack:</strong>TailwindCss,Daisyui,Websocket</p>
 
   <p>👉 <strong>Features:</strong></p>
   <ul>
@@ -18,6 +19,8 @@
     <li>Nested replies system</li>
     <li>JWT-based route protection</li>
     <li>Basic input validation and error handling</li>
+    <li>User Profile Page</li>
+    <li>Chat feature to user</li>
   </ul>
 
   <h2 style="font-size: 28px;"> What I Learned</h2>
@@ -38,7 +41,9 @@
 
 ![1_2_sys_des_whisp](/imgaes/1_2_sys_des_wIt.png)
 ![3_4_sys_des_whisp](/imgaes/3_4_sys_des_wit.png)
-![5_sys_des_whisp](/imgaes/5-system-design-whiperit-new.jpg)
+<!-- ![5_sys_des_whisp](/imgaes/5-system-design-whiperit-new.jpg) -->
+![6_sys_des_whisp](/imgaes/5_6_sys_des_wit.png)
+![7_sys_des_whisp](/imgaes/7-system-design-whiperit.png)
 
 <!-- ![1_2_sys_des_wIt](https://github.com/user-attachments/assets/0c0a75d1-a76d-46d7-92bd-45c1fce8eca7)
 
